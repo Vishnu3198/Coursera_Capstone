@@ -1,2 +1,3 @@
 # Coursera_Capstone
-First Data Science capstone project
+IBM Applied Data Science Capstone
+This is the repository for the Coursera IBM Applied Data Science Capstone course.
